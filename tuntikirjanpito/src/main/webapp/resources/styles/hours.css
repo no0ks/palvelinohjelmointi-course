@@ -1,0 +1,42 @@
+table, th {
+	padding: 5px;
+}
+
+legend {
+	font-weight: bold;
+	padding: 5px;
+}
+
+thead {
+	font-weight: bold;
+}
+
+tbody {
+	font-weight: normal;
+}
+
+td {
+	padding: 2px;
+}
+
+fieldset {
+	padding: 5px;
+}
+
+#langsel {
+	float: right;
+}
+
+.ErrorField {
+	background-color: #FFE4E4;
+}
+.ErrorText {
+	color: red;
+	font-style: italic;
+	font-size: small;
+}
+.ErrorHeading {
+	color: red;
+	font-style: italic;
+	font-size: medium;
+}
