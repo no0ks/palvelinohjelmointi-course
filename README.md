@@ -2,7 +2,7 @@
 Exercises from Palvelinohjelmointi course at Haaga-Helia University of Applied Sciences.
 
 ## Vessapaperiohjelmisto:
-Program for three roommates who want to take turns in buying toilet paper. Everyone logs the packages they have bought, and when each has the same amount, the log can be cleared.
+Program for three roommates who take turns in buying toilet paper. Everyone logs the packages they have bought, and when each has the same amount, the log can be cleared.
 * Servlet
 * MySQL DB
 
