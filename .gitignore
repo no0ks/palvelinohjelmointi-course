@@ -3,7 +3,7 @@
 
 ### Eclipse ###
 
-.MF
+*.MF
 /src/main/resources/personal.properties
 .metadata
 bin/
