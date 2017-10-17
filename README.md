@@ -13,7 +13,7 @@ Program for logging the working hours of three persons: Admin and two employees.
 * Spring JDBC
 * Spring Security
 * Spring Internationalization
-* Bean Validation
+* Hibernate Validator
 * MySQL DB
 * JSTL
 * jQuery UI datepicker
