@@ -1,5 +1,3 @@
--- MUISTA! console encoding latin1
-
 INSERT INTO paperinOstajat
 	(ostajaNimi, ostettuMaara, paivitetty)
 VALUES
