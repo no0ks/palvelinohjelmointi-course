@@ -1,5 +1,5 @@
 # palvelinohjelmointi-course
-Exercises from Palvelinohjelmointi course at Haaga-Helia University of Applied Sciences. Simple web programs: First with webservlet, then moving on to Maven and Spring MVC.
+Exercises from Palvelinohjelmointi course at Haaga-Helia University of Applied Sciences.
 
 ## Vessapaperiohjelmisto:
 Program for three roommates who want to take turns in buying toilet paper. Everyone logs the packages they have bought, and when each has the same amount, the log can be cleared.
