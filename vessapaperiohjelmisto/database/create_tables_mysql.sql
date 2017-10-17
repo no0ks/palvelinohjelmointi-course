@@ -1,0 +1,7 @@
+CREATE TABLE paperinOstajat (
+ostajaId INT NOT NULL AUTO_INCREMENT,
+ostajaNimi VARCHAR(50) NOT NULL,
+ostettuMaara INT NOT NULL,
+paivitetty DATETIME NOT NULL,
+PRIMARY KEY (ostajaId)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
