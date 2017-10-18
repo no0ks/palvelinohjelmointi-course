@@ -11,6 +11,12 @@ An application for three roommates who take turns in buying toilet paper. Everyo
 * Servlet
 * MySQL DB
 
+## Äänilevyt:
+A command line program which prints out the CD collection the user has added to the database.
+* Maven
+* Spring JDBC
+* MySQL DB
+
 ## Pistekirjanpito:
 An application for a teacher to give the students grades for their demos. The students can log in and see their own results.
 * Maven
