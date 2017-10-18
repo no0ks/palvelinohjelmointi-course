@@ -2,17 +2,17 @@
 Exercises from Palvelinohjelmointi course at Haaga-Helia University of Applied Sciences.
 
 ## Äänestys:
-An application for collecting votes. User can vote (yes or no) any number of times, add new polls and see the results.
+An application for collecting votes. The user can vote (yes or no) any number of times, add new polls and see the results.
 * Servlet
 * MySQL DB
 
 ## Vessapaperiohjelmisto:
-An application for three roommates who take turns in buying toilet paper. Everyone logs the packages they have bought, and when each has the same amount, the log can be cleared.
+An application for three roommates who take turns in buying toilet paper. Everyone logs the packages they have bought, and when each person has bought the same amount, the log can be cleared.
 * Servlet
 * MySQL DB
 
 ## Korttiohjelmisto:
-An application for keeping track of people's addresses.
+An address book. The user can add and delete people's addresses.
 * Maven
 * Servlet
 * JUnit
@@ -20,7 +20,7 @@ An application for keeping track of people's addresses.
 * JSTL
 
 ## Äänilevyt:
-A command line program which prints out the CD collection the user has added to the database.
+A command line program which prints out the user's CD collection from the database.
 * Maven
 * Spring JDBC
 * MySQL DB
@@ -31,6 +31,15 @@ An application for a teacher to give the students grades for their demos. The st
 * Servlet
 * Login
 * Spring JDBC
+* MySQL DB
+* JSTL
+
+## Painonhallinta:
+A weight diary. The user can add their current weight to the database.
+* Maven
+* Spring MVC
+* Spring JDBC
+* Hibernate Validator
 * MySQL DB
 * JSTL
 
