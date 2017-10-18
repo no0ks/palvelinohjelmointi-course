@@ -1,0 +1,4 @@
+CREATE TABLE demoPisteet (
+	oppilasnro CHAR(7) NOT NULL PRIMARY KEY,
+	arvosana INT(1) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
