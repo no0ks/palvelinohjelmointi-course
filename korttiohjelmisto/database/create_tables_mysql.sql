@@ -1,0 +1,14 @@
+CREATE TABLE osoitteet (
+    henkiloId INT NOT NULL AUTO_INCREMENT,
+    etunimi VARCHAR(15) NOT NULL,
+    sukunimi VARCHAR(20) NOT NULL,
+    katuosoite VARCHAR(30) NOT NULL,
+    postinro CHAR(5) NOT NULL,
+    PRIMARY KEY (henkiloId)
+)  ENGINE=INNODB DEFAULT CHARSET=LATIN1;
+
+CREATE TABLE posti (
+    postinro CHAR(5) NOT NULL,
+    postitmp VARCHAR(20) NOT NULL,
+    PRIMARY KEY (postinro)
+)  ENGINE=INNODB DEFAULT CHARSET=LATIN1;

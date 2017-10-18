@@ -1,0 +1,45 @@
+thead {
+	background-color: #FFFFF;
+	color: #333333;
+	font-weight: bold;
+}
+
+tbody {
+	color: #333333;
+	font-weight: normal;
+}
+
+tbody tr:nth-child(odd) {
+	background-color: #E0E0E0;
+}
+
+tbody tr:nth-child(even) {
+	background-color: #F3F3F3;
+}
+
+tfoot tr td {
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+input {
+	border: 1px;
+	border-color: #333333;
+	color: #333333;
+	border-style: solid;
+	margin:0px;
+	vertical-align: middle;
+	font-weight: normal;
+	background: #FAFAFA;
+	padding: 2px;
+}
+
+td {
+	padding: 6px;
+}
+
+table {
+	border-spacing: 4px;
+}
