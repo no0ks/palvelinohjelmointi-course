@@ -11,6 +11,14 @@ An application for three roommates who take turns in buying toilet paper. Everyo
 * Servlet
 * MySQL DB
 
+## Korttiohjelmisto:
+An application for keeping track of people's addresses.
+* Maven
+* Servlet
+* JUnit
+* MySQL DB
+* JSTL
+
 ## Äänilevyt:
 A command line program which prints out the CD collection the user has added to the database.
 * Maven
